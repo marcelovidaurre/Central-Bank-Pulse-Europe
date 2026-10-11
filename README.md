@@ -13,7 +13,7 @@ This project measures those ripples in Europe. It tracks two central banks:
 European Central Bank (ECB): sets rates for the 20 countries that use the euro.
 National Bank of Poland (NBP): sets rates for the Polish złoty.
 
-Using daily market data from January 2018 to today, the project covers three very different rate environments: the 2020 pandemic cuts, the 2022 to 2023 hiking cycle, and the easing period that followed.
+Using daily market data from January 2020 to today, the project covers three very different rate environments: the 2020 pandemic cuts, the 2022 to 2023 hiking cycle, and the easing period that followed.
 
 Why this study matters
 
